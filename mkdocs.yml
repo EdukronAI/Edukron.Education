@@ -5,7 +5,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
 nav:
-  - Home: index.md
+
   - Python:
     - Python Data Types Guide: introduction-python-data-types.md
     - Numeric Data Types: numeric-data-types.md
