@@ -1,0 +1,28 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+nav:
+  - Home: index.md
+  - Python:
+    - Python Data Types Guide: introduction-python-data-types.md
+    - Numeric Data Types: numeric-data-types.md
+    - Text Data Types: text-data-types.md
+    - Sequence Data Types: sequence-data-types.md
+    - Mapping Data Types: mapping-data-types.md
+    - Set Data Types: set-data-types.md
+    - Boolean Data Type: boolean-data-type.md
+    - Binary Data Types: binary-data-types.md
+    - Date and Time Data Types: date-time-data-types.md
+    - Other Built-in Types: other-built-in-types.md
+    - Type Conversion: type-conversion.md
+    - Creating Custom Data Types: creating-custom-data-types.md
+    - Common Operations on Data Types: common-operations-on-data-types.md
+    - Python's Type Hierarchy: python-type-hierarchy.md
+    - Choosing the Right Data Type: choosing-right-data-type.md
+    - Best Practices for Data Types: best-practices-for-data-types.md
+    - Differences Between Python Versions: python-versions-differences.md
+    - Further Reading and Resources: further-reading-resources.md
+    - License: license.md

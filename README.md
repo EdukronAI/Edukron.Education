@@ -1,1 +1,1 @@
-# Edukron.Education
+# Blog
